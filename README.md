@@ -1,7 +1,8 @@
 # Calculadora em JavaScript
 
+{:refdef: style="width: 10px; height: 10px"}
 [![Project Image](imgs/project.png)](https://web-calculator-js.herokuapp.com)
-<img src="/Brian-Luca/Calculadora/raw/master/imgs/project.png" alt="Project Image" style="max-width:100%;" width="200px" heigth="200px">
+{: refdef}
 
 `Esse projeto foi feito com HTML, CSS e JS.`
 
