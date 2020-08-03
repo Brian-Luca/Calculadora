@@ -1,6 +1,7 @@
 # Calculadora em JavaScript
 
-[![Project Image](imgs/project.png){:height="36px" width="36px"}](https://web-calculator-js.herokuapp.com)
+[![Project Image](imgs/project.png)](https://web-calculator-js.herokuapp.com)
+<img src="/Brian-Luca/Calculadora/raw/master/imgs/project.png" alt="Project Image" style="max-width:100%;" width="200px" heigth="200px">
 
 `Esse projeto foi feito com HTML, CSS e JS.`
 
