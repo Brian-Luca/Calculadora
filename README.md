@@ -1,6 +1,6 @@
 # Calculadora em JavaScript
 
-<a href="web-calculator-js.herokuapp.com">
+<a href="http://web-calculator-js.herokuapp.com">
     <img src="imgs/project.png" width=50% height=50%>
 </a>
 
