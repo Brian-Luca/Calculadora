@@ -1,6 +1,8 @@
 # Calculadora em JavaScript
 
-<img src="imgs/project.png" width=50% height=50%>
+<a href="web-calculator-js.herokuapp.com">
+    <img src="imgs/project.png" width=50% height=50%>
+</a>
 
 `Esse projeto foi feito com HTML, CSS e JS.`
 
