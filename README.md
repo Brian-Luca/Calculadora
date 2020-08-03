@@ -1,6 +1,6 @@
 # Calculadora em JavaScript
 
-[![Project Image](imgs/project.png = 250x250)](https://web-calculator-js.herokuapp.com)
+[![Project Image](imgs/project.png =250x250)](https://web-calculator-js.herokuapp.com)
 
 `Esse projeto foi feito com HTML, CSS e JS.`
 
