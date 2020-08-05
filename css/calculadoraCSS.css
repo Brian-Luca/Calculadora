@@ -27,6 +27,7 @@ form{
 
 #display{
     background-color: whitesmoke;
+    font-family: 'Times New Roman', Times;
     border-radius: 4% 4% 0 0/ 15% 15% 0 0;
     width: 98%;
     height: 94.5%;
@@ -39,8 +40,8 @@ form{
 }
 
 .dis{
-    padding-right: 1vw;
-    padding-left: 1vw;
+    padding-right: 2vh;
+    padding-left: 2vh;
     text-align: right;
 }
 
