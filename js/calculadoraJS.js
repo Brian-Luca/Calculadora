@@ -143,6 +143,8 @@ $pot.click(function () {
 //Botões com teclado:
 
 $("html").keydown(function () {
+    console.log(event.key);
+
     switch (event.key) {
         case '0':
             zero();
@@ -181,6 +183,37 @@ $("html").keydown(function () {
         case ',':
         case '.':
             fracion();
+            break;
+        case '+':
+            if (r || p) {
+                terminou = false;
+            }
+            soma();
+            break;
+        case '-':
+            if (r || p) {
+                terminou = false;
+            }
+            sub();
+            break;
+        case '*':
+            if (r || p) {
+                terminou = false;
+            }
+            mult();
+            break;
+        case '/':
+            if (r || p) {
+                terminou = false;
+            }
+            div();
+            break;
+        case '=':
+        case 'Enter':
+            resultado();
+            break;
+        case 'Escape':
+            location.reload()
             break;
     }
 
