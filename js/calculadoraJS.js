@@ -212,8 +212,9 @@ $("html").keydown(function () {
         case 'Enter':
             resultado();
             break;
-        case 'Escape':
-            location.reload()
+        case 'r':
+        case 'R':
+            location.reload();
             break;
     }
 
